@@ -1,0 +1,2 @@
+include ':git_chat_lib'
+include ':git_chat'
